@@ -2,7 +2,7 @@
   "name": "reactscratch",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://reactapp.github.io/Simple-React-App-Github-Actions-deploy",
+  "homepage": "https://tglatne.github.io/reactghactionsdeploy",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",
